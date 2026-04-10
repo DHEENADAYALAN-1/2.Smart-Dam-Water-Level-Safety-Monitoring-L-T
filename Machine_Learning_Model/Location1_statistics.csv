@@ -1,0 +1,20 @@
+Metric,Value
+Total Records,68
+Time Period,2026-04-09T10:44:08+00:00 to 2026-04-09T11:01:27+00:00
+Rainfall Min,0.0
+Rainfall Max,60.0
+Rainfall Mean,23.24
+Water Level Min,113.0
+Water Level Max,247.0
+Water Level Mean,195.94
+Pressure Min,357.0
+Pressure Max,424.0
+Pressure Mean,398.74
+Prediction Error Mean,19.92
+Prediction Error Std,43.28
+HIGH Risk Count,46
+MEDIUM Risk Count,0
+LOW Risk Count,22
+Gate Open Count,28
+Avg Inflow,14.59
+Avg Outflow,7.87
